@@ -3,7 +3,7 @@
 # Description
 This was done as part of group where we designed and implemented the Held-Karp algorithm for the Traveling Sales Man Problem utilizing Python and JSON within the Visual Studio Code editor.
 
-For more details please see the `algo-desc.pdf file`
+For more details please see the `algo_desc.pdf` file
 
 # Compilation & Running Instructions:
 
